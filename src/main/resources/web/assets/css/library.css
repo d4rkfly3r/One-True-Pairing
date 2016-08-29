@@ -1,0 +1,11 @@
+.content {
+    margin-top: 70px;
+}
+
+.card-link {
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    color: lightgray !important;
+}
